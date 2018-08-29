@@ -1,1 +1,5 @@
-#ddshelt.github.io
+# ddshelt.github.io
+
+- [GitHub]()
+- [StackOverflow]()
+- [LinkedIn]()
