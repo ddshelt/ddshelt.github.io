@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url('https://fonts.googleapis.com/css?family=Kosugi+Maru');
 
 img {
   display: block;
@@ -11,16 +12,15 @@ img {
 
 h1, h2, h3 {
   font-family: 'Oswald', sans-serif;
+  text-transform: uppercase;
 }
 
 body {
   background-color: orange;
 }
 
-p {
-    font-family: 'Titillium Web';
-}
 
 .paragraph{
   border: 4px solid black;
+  font-family: 'Kosugi Maru', sans-serif;
 }
