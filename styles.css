@@ -1,8 +1,8 @@
 img {
-  border-radius: 8px;
-  margin-left: auto;
-  margin-right: auto;
-  width: 12em;
+  display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 40%;
 }
 
 h1, h2, h3{
@@ -10,5 +10,10 @@ h1, h2, h3{
 }
 
 body {
-  orange;
+  background-color: orange;
+}
+
+.intro {
+  text-align: center;
+    border: 3px solid black;
 }
