@@ -23,5 +23,9 @@ body {
 .paragraph{
   border: 4px solid black;
   font-family: 'Kosugi Maru', sans-serif;
-  background-color: yellow
+  background-color: chocolate
+}
+
+h2 {
+  border-bottom: dashed;
 }
