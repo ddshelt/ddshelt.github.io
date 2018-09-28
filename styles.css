@@ -29,3 +29,7 @@ body {
 h2 {
   border-bottom: dashed;
 }
+
+h1,h3,p {
+  text-align: center;
+}
